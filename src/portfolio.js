@@ -207,7 +207,7 @@ const experience = {
       work: true,
       experiences: [
         {
-          title: "Senior Software Engieer 1 ",
+          title: "Senior Software Engineer 1 ",
           company: "Gupshup",
           company_url: "https://www.gupshup.io/",
           logo_path: "gupshup.png",
