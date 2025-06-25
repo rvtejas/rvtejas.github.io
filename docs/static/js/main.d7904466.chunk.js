@@ -498,7 +498,7 @@
         y =
           "A passionate frontend developer dedicated to building scalable, high-performance applications with a strong focus on delivering seamless and engaging user experiences.",
         x =
-          "https://drive.google.com/file/d/1tSghL5uuoKTZHnOLzcc7SmQzkts24SnI/view?usp=sharing",
+          "https://drive.google.com/file/d/1iSeiO48SvonmX9ULhmcjz7h9eGZG__II/view?usp=drive_link",
         u = "",
         M = [
           {
@@ -589,7 +589,7 @@
               subtitle: "B.Tech in Electronics and Communication Engineering",
               logo_path: "gitam.jpeg",
               alt_name: "Gitam Hyd",
-              duration: "2013 - 2017",
+              duration: "2013-2017",
               descriptions: [],
               website_link: "",
             },
@@ -607,14 +607,14 @@
               work: !0,
               experiences: [
                 {
-                  title: "Senior Software Engieer 1 ",
+                  title: "Senior Software Engineer 1 ",
                   company: "Gupshup",
                   company_url: "https://www.gupshup.io/",
                   logo_path: "gupshup.png",
                   duration: "Feb 2023 - Present",
                   location: "Bangalore, Karnataka",
                   description:
-                    "Developed and enhanced customer journey builder using React, Next.js, and TypeScript, improving UI performance and maintainability. \n\n            Refactored legacy codebase to TypeScript, increasing type safety and reducing runtime errors by 25%\n            Maintained comprehensive documentation of development work, facilitating knowledge sharing among team members.\n            Wrote robust unit tests with Jest and Cucumber, achieving 90% test coverage\n            Led cross-functional initiatives and mentored junior developers through regular code reviews\n            Leverage micro-frontends using webpack module federation",
+                    "Developed and enhanced customer journey builder using React, Next.js, and TypeScript, improving UI performance and maintainability. \n\n            Refactored legacy codebase to TypeScript, increasing type safety and reducing runtime errors by 25%.\n            Improve page performance by leveraging server components and server side rendering for initial pages which improved performance for 30%.\n            Maintained comprehensive documentation of development work, facilitating knowledge sharing among team members.\n            Wrote robust unit tests with Jest and Cucumber, achieving 90% test coverage\n            Led cross-functional initiatives and mentored junior developers through regular code reviews\n            Leverage micro-frontends using webpack module federation",
                   color: "#000000",
                 },
                 {
@@ -6542,4 +6542,4 @@
   ]),
   [[92, 1, 2]],
 ]);
-//# sourceMappingURL=main.cd1e9a76.chunk.js.map
+//# sourceMappingURL=main.d7904466.chunk.js.map
