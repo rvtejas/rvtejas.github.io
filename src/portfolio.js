@@ -185,7 +185,7 @@ const degrees = {
       subtitle: "B.Tech in Electronics and Communication Engineering",
       logo_path: "gitam.jpeg",
       alt_name: "Gitam Hyd",
-      duration: "2013 - 2017",
+      duration: "2013-2017",
       descriptions: [],
       website_link: "",
     },
