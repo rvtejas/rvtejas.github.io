@@ -498,7 +498,7 @@
         y =
           "A passionate frontend developer dedicated to building scalable, high-performance applications with a strong focus on delivering seamless and engaging user experiences.",
         x =
-          "https://drive.google.com/file/d/1iSeiO48SvonmX9ULhmcjz7h9eGZG__II/view?usp=drive_link",
+          "https://drive.google.com/file/d/1VwcNBQyINGUNCmb-KbF57ZEFwU9FnrqD/view?usp=sharing",
         u = "",
         M = [
           {
@@ -1334,8 +1334,8 @@
           );
         }
       }
-      var z = T;
-      function O(e) {
+      var W = T;
+      function z(e) {
         const t = e.theme;
         return r.a.createElement(
           d.Fade,
@@ -1382,14 +1382,14 @@
               r.a.createElement(
                 "div",
                 { className: "greeting-image-div" },
-                r.a.createElement(z, { theme: t })
+                r.a.createElement(W, { theme: t })
               )
             )
           )
         );
       }
       a(65), a(120);
-      var W = a(314),
+      var O = a(314),
         J = a(312);
       class P extends r.a.Component {
         render() {
@@ -1404,7 +1404,7 @@
                 { className: "dev-icons" },
                 this.props.logos.map((e) =>
                   r.a.createElement(
-                    W.a,
+                    O.a,
                     {
                       key: e.skillName,
                       placement: "top",
@@ -3831,7 +3831,7 @@
             "div",
             null,
             r.a.createElement(L, { theme: this.props.theme }),
-            r.a.createElement(O, { theme: this.props.theme }),
+            r.a.createElement(z, { theme: this.props.theme }),
             r.a.createElement(le, { theme: this.props.theme }),
             r.a.createElement(re, { theme: this.props.theme }),
             r.a.createElement(ne, { theme: this.props.theme })
@@ -5402,7 +5402,7 @@
                 { className: "dev-icons-languages" },
                 this.props.logos.map((e) =>
                   r.a.createElement(
-                    W.a,
+                    O.a,
                     {
                       key: e.name,
                       placement: "top",
@@ -6489,7 +6489,7 @@
         splashBg: "#001C55",
       };
       var Te;
-      const ze = Object(F.b)(
+      const We = Object(F.b)(
         Te ||
           (Te = Object(V.a)([
             "\n  *,\n  *::after,\n  *::before {\n    box-sizing: border-box;\n  }\n\n  body {\n    align-items: center;\n    background: ",
@@ -6505,14 +6505,14 @@
           return t.text;
         }
       );
-      var Oe = function () {
+      var ze = function () {
         return r.a.createElement(
           F.a,
           { theme: Ge },
           r.a.createElement(
             r.a.Fragment,
             null,
-            r.a.createElement(ze, null),
+            r.a.createElement(We, null),
             r.a.createElement("div", null, r.a.createElement(De, { theme: Ge }))
           )
         );
@@ -6525,12 +6525,12 @@
           )
       );
       a(297);
-      const We = new A.a();
+      const Oe = new A.a();
       i.a.render(
         r.a.createElement(
           o.a,
-          { value: We },
-          r.a.createElement(c.a, { theme: s.a }, r.a.createElement(Oe, null))
+          { value: Oe },
+          r.a.createElement(c.a, { theme: s.a }, r.a.createElement(ze, null))
         ),
         document.getElementById("root")
       ),
@@ -6542,4 +6542,4 @@
   ]),
   [[92, 1, 2]],
 ]);
-//# sourceMappingURL=main.d7904466.chunk.js.map
+//# sourceMappingURL=main.567673b3.chunk.js.map
