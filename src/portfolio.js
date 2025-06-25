@@ -24,7 +24,7 @@ const greeting = {
   subTitle:
     "A passionate frontend developer dedicated to building scalable, high-performance applications with a strong focus on delivering seamless and engaging user experiences.",
   resumeLink:
-    "https://drive.google.com/file/d/1iSeiO48SvonmX9ULhmcjz7h9eGZG__II/view?usp=drive_link",
+    "https://drive.google.com/file/d/1VwcNBQyINGUNCmb-KbF57ZEFwU9FnrqD/view?usp=sharing",
   portfolio_repository: "",
   githubProfile: "",
 };
@@ -168,6 +168,11 @@ const skills = {
 
 // Education Page
 const competitiveSites = {};
+
+/*
+// "build": "react-scripts --openssl-legacy-provider build",
+    // "deploy": "gh-pages -b gh-pages -d build",
+*/
 
 const degrees = {
   degrees: [
