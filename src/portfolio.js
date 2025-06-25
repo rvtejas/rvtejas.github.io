@@ -24,7 +24,7 @@ const greeting = {
   subTitle:
     "A passionate frontend developer dedicated to building scalable, high-performance applications with a strong focus on delivering seamless and engaging user experiences.",
   resumeLink:
-    "https://drive.google.com/file/d/1tSghL5uuoKTZHnOLzcc7SmQzkts24SnI/view?usp=sharing",
+    "https://drive.google.com/file/d/1iSeiO48SvonmX9ULhmcjz7h9eGZG__II/view?usp=drive_link",
   portfolio_repository: "",
   githubProfile: "",
 };
@@ -214,7 +214,8 @@ const experience = {
           duration: "Feb 2023 - Present",
           location: "Bangalore, Karnataka",
           description: `Developed and enhanced customer journey builder using React, Next.js, and TypeScript, improving UI performance and maintainability. \n
-            Refactored legacy codebase to TypeScript, increasing type safety and reducing runtime errors by 25%
+            Refactored legacy codebase to TypeScript, increasing type safety and reducing runtime errors by 25%.
+            Improve page performance by leveraging server components and server side rendering for initial pages which improved performance for 30%.
             Maintained comprehensive documentation of development work, facilitating knowledge sharing among team members.
             Wrote robust unit tests with Jest and Cucumber, achieving 90% test coverage
             Led cross-functional initiatives and mentored junior developers through regular code reviews
